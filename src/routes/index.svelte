@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="min-h-screen flex flex-col items-center justify-center mx-8 space-y-8">
+	<h1 class="text-5xl text-gray-100">Orbits UI 🚀</h1>
+	<h5 class="text-gray-400 text-xl text-center">
+		React Component Library with accessible components, customizable with Tailwind CSS
+	</h5>
+</div>
