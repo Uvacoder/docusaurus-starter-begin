@@ -1,4 +1,6 @@
-<div class="min-h-screen flex flex-col items-center justify-center mx-8 space-y-8">
+<div
+	class="min-h-screen flex flex-col items-center justify-center mx-8 space-y-8 md:space-y-12 lg:space-y-16"
+>
 	<h1 class="text-5xl md:text-6xl lg:text-7xl text-gray-100">Orbits UI 🚀</h1>
 	<h5 class="text-gray-400 text-xl md:text-2xl lg:text-3xl text-center">
 		React Component Library with accessible components, customizable with Tailwind CSS
