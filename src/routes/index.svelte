@@ -3,4 +3,9 @@
 	<h5 class="text-gray-400 text-xl text-center">
 		React Component Library with accessible components, customizable with Tailwind CSS
 	</h5>
+	<div
+		class="rounded-full bg-blue-700 backdrop-filter backdrop-blur-xl border-white p-4 shadow-md shadow-blue-700"
+	>
+		<p class="text-2xl text-gray-300">Coming Soon!</p>
+	</div>
 </div>
