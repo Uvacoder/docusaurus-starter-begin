@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import("@docusaurus/types").Config} */
 const config = {
-  title: "My Site",
+  title: "Orbits UI",
   tagline: "Dinosaurs are cool",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
@@ -44,9 +44,9 @@ const config = {
     /** @type {import("@docusaurus/preset-classic").ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        title: "Orbits UI",
         logo: {
-          alt: "My Site Logo",
+          alt: "Orbits UI Logo",
           src: "img/logo.svg",
         },
         items: [
