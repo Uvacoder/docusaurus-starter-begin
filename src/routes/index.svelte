@@ -8,6 +8,6 @@
 	<div
 		class="rounded-full bg-blue-700 backdrop-filter backdrop-blur-xl border-white p-4 shadow-md shadow-blue-700"
 	>
-		<p class="text-2xl md:text-3xl lg:text-4xl text-gray-300">Coming Soon!</p>
+		<p class="text-2xl md:text-3xl lg:text-4xl text-gray-300 p-1 md:p-2">Coming Soon!</p>
 	</div>
 </div>
